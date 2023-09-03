@@ -4,7 +4,6 @@
 
 
 - 🌱 I’m currently learning **Prisma**
-
 - 👨‍💻 All of my projects are available at [https://pankajpundir.com](https://pankajpundir.com)
 
 - 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, Typescript,Next.js**
